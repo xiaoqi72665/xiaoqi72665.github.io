@@ -250,6 +250,69 @@
       </tags>
   </entry>
   <entry>
+    <title>模拟人生4 升级解锁工具</title>
+    <url>/posts/952548742.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <h2 id="Sim4-Updater"><a href="#Sim4-Updater" class="headerlink" title="Sim4-Updater"></a>Sim4-Updater</h2><p>一款来自外网的免费更新解锁DLC工具，支持游戏下载、升级、资料片更新与解锁、游戏修复等功能。</p>
+
+  </div>
+
+<h2 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h2>
+  <div class="note p-4 mb-4 rounded-small success">
+    <ul>
+<li>游戏本体下载</li>
+<li>DLC资料片下载</li>
+<li>DLC一键解锁</li>
+<li>游戏文件修复</li>
+</ul>
+
+  </div>
+
+<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>软件界面 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2023/06/17/648cdd3004abb.png"
+                      alt="软件界面"
+                ></p>
+              </div>
+            </details>
+
+<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>使用教程 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/09/21/632a2a08c781a.png"
+                      alt="使用教程"
+                ></p>
+              </div>
+            </details>
+
+<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><a class="button  regular" href='https://www.123pan.com/s/ylM8Vv-tppad.html' title='下载工具(YXPb)'><i class='fas fa-download'></i> 下载工具(YXPb)</a>
+
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>使用时请关闭代理工具，否则可能导致连接错误</p>
+
+  </div>
+
+<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>远程协助 </summary>
+              <div class='content'>
+              <p>使用遇到困难？我们提供专业的远程安装服务：<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
+              </div>
+            </details>
+]]></content>
+      <categories>
+        <category>游戏教程</category>
+      </categories>
+      <tags>
+        <tag>模拟人生4</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>模拟人生4 全资料片解锁</title>
     <url>/posts/aa965a38.html</url>
     <content><![CDATA[
@@ -347,60 +410,40 @@
       </tags>
   </entry>
   <entry>
-    <title>模拟人生4 升级解锁工具</title>
-    <url>/posts/952548742.html</url>
+    <title>模拟人生4 MOD安装教程</title>
+    <url>/posts/eeeda2be.html</url>
     <content><![CDATA[
   <div class="note p-4 mb-4 rounded-small info">
-    <h2 id="Sim4-Updater"><a href="#Sim4-Updater" class="headerlink" title="Sim4-Updater"></a>Sim4-Updater</h2><p>一款来自外网的免费更新解锁DLC工具，支持游戏下载、升级、资料片更新与解锁、游戏修复等功能。</p>
-
-  </div>
-
-<h2 id="功能特点"><a href="#功能特点" class="headerlink" title="功能特点"></a>功能特点</h2>
-  <div class="note p-4 mb-4 rounded-small success">
-    <ul>
-<li>游戏本体下载</li>
-<li>DLC资料片下载</li>
-<li>DLC一键解锁</li>
-<li>游戏文件修复</li>
+    <h2 id="默认路径"><a href="#默认路径" class="headerlink" title="默认路径"></a>默认路径</h2><ul>
+<li>Mods文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\Mods</code></li>
+<li>saves存档文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\saves</code></li>
+<li>Tray人物房屋模组配置文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\Tray</code></li>
 </ul>
 
   </div>
 
-<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>软件界面 </summary>
-              <div class='content'>
-              <p><img  
+<h2 id="MOD安装教程"><a href="#MOD安装教程" class="headerlink" title="MOD安装教程"></a>MOD安装教程</h2><div class="tabs" id="tab-mod-install"><ul class="nav-tabs"><li class="tab active"><a class="#mod-install-1">准备工作</a></li><li class="tab"><a class="#mod-install-2">安装MOD</a></li><li class="tab"><a class="#mod-install-3">启用MOD</a></li></ul><div class="tab-content"><div class="tab-pane active" id="mod-install-1"><h3 id="1-找到安装mod的文件夹，没有就新建一个"><a href="#1-找到安装mod的文件夹，没有就新建一个" class="headerlink" title="1. 找到安装mod的文件夹，没有就新建一个"></a>1. 找到安装mod的文件夹，没有就新建一个</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2023/06/17/648cdd3004abb.png"
-                      alt="软件界面"
-                ></p>
-              </div>
-            </details>
-
-<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>使用教程 </summary>
-              <div class='content'>
-              <p><img  
+                     data-src="https://bu.dusays.com/2022/11/23/637db6fb191b7.gif"
+                     
+                ></p></div><div class="tab-pane" id="mod-install-2"><h3 id="2-安装下载好的mod，方法都一样"><a href="#2-安装下载好的mod，方法都一样" class="headerlink" title="2. 安装下载好的mod，方法都一样"></a>2. 安装下载好的mod，方法都一样</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/09/21/632a2a08c781a.png"
-                      alt="使用教程"
-                ></p>
-              </div>
-            </details>
-
-<h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><a class="button  regular" href='https://www.123pan.com/s/ylM8Vv-tppad.html' title='下载工具(YXPb)'><i class='fas fa-download'></i> 下载工具(YXPb)</a>
+                     data-src="https://bu.dusays.com/2022/11/23/637db74da5f14.gif"
+                     
+                ></p></div><div class="tab-pane" id="mod-install-3"><h3 id="3-进游戏，启用"><a href="#3-进游戏，启用" class="headerlink" title="3. 进游戏，启用"></a>3. 进游戏，启用</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/11/23/637db76c017e9.gif"
+                     
+                ></p></div></div></div>
 
 
   <div class="note p-4 mb-4 rounded-small warning">
-    <p>使用时请关闭代理工具，否则可能导致连接错误</p>
+    <h2 id="特殊说明"><a href="#特殊说明" class="headerlink" title="特殊说明"></a>特殊说明</h2><p>房屋类、美化存档等，0x00000000开头的文件一律放到Tray文件夹中</p>
 
   </div>
-
-<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>远程协助 </summary>
-              <div class='content'>
-              <p>使用遇到困难？我们提供专业的远程安装服务：<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
-              </div>
-            </details>
 ]]></content>
       <categories>
         <category>游戏教程</category>
@@ -473,49 +516,6 @@
       </tags>
   </entry>
   <entry>
-    <title>模拟人生4 MOD安装教程</title>
-    <url>/posts/eeeda2be.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small info">
-    <h2 id="默认路径"><a href="#默认路径" class="headerlink" title="默认路径"></a>默认路径</h2><ul>
-<li>Mods文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\Mods</code></li>
-<li>saves存档文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\saves</code></li>
-<li>Tray人物房屋模组配置文件夹：<code>C:\用户\Documents\Electronic Arts\The Sims 4\Tray</code></li>
-</ul>
-
-  </div>
-
-<h2 id="MOD安装教程"><a href="#MOD安装教程" class="headerlink" title="MOD安装教程"></a>MOD安装教程</h2><div class="tabs" id="tab-mod-install"><ul class="nav-tabs"><li class="tab active"><a class="#mod-install-1">准备工作</a></li><li class="tab"><a class="#mod-install-2">安装MOD</a></li><li class="tab"><a class="#mod-install-3">启用MOD</a></li></ul><div class="tab-content"><div class="tab-pane active" id="mod-install-1"><h3 id="1-找到安装mod的文件夹，没有就新建一个"><a href="#1-找到安装mod的文件夹，没有就新建一个" class="headerlink" title="1. 找到安装mod的文件夹，没有就新建一个"></a>1. 找到安装mod的文件夹，没有就新建一个</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/23/637db6fb191b7.gif"
-                     
-                ></p></div><div class="tab-pane" id="mod-install-2"><h3 id="2-安装下载好的mod，方法都一样"><a href="#2-安装下载好的mod，方法都一样" class="headerlink" title="2. 安装下载好的mod，方法都一样"></a>2. 安装下载好的mod，方法都一样</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/23/637db74da5f14.gif"
-                     
-                ></p></div><div class="tab-pane" id="mod-install-3"><h3 id="3-进游戏，启用"><a href="#3-进游戏，启用" class="headerlink" title="3. 进游戏，启用"></a>3. 进游戏，启用</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/23/637db76c017e9.gif"
-                     
-                ></p></div></div></div>
-
-
-  <div class="note p-4 mb-4 rounded-small warning">
-    <h2 id="特殊说明"><a href="#特殊说明" class="headerlink" title="特殊说明"></a>特殊说明</h2><p>房屋类、美化存档等，0x00000000开头的文件一律放到Tray文件夹中</p>
-
-  </div>
-]]></content>
-      <categories>
-        <category>游戏教程</category>
-      </categories>
-      <tags>
-        <tag>模拟人生4</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>模拟人生4 美化存档分享</title>
     <url>/posts/6fcbe4c1.html</url>
     <content><![CDATA[
@@ -557,56 +557,6 @@
                 ></p>  <div class="note p-4 mb-4 rounded-small info">    <p>目前仅提供EA风 888M版本的预览图,其他版本请下载后体验</p>  </div>
               </div>
             </details>]]></content>
-      <categories>
-        <category>游戏教程</category>
-      </categories>
-      <tags>
-        <tag>模拟人生4</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>模拟人生4 资料片下载</title>
-    <url>/posts/1415024682.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small info">
-    <h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><ul>
-<li>最新版本：乐租生活【EP15】(2023.12.08)</li>
-<li>1.104组合包已包含在游戏内，升级后自动获得</li>
-</ul>
-
-  </div>
-
-<h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><div class="tabs" id="tab-download"><ul class="nav-tabs"><li class="tab active"><a class="#download-1">单独DLC下载</a></li><li class="tab"><a class="#download-2">打包下载</a></li></ul><div class="tab-content"><div class="tab-pane active" id="download-1"><h3 id="单独下载"><a href="#单独下载" class="headerlink" title="单独下载"></a>单独下载</h3><p>每个DLC对应一个4位编号(如GP**, SP**等)，按需下载：</p>
-<p><a class="button  regular" href='https://share.feijipan.com/s/IGUIdMkZ' title='小飞机网盘'><i class='fas fa-plane'></i> 小飞机网盘</a><br><a class="button  regular" href='https://pan.baidu.com/s/1odRsJPTI25SBsMgsOgoCpA' title='百度网盘(8w73)'><i class='fas fa-cloud-download-alt'></i> 百度网盘(8w73)</a></p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>下载教程 </summary>
-              <div class='content'>
-              <p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2023/12/18/657f330af4089.gif"
-                      alt="下载教程"
-                ></p>
-              </div>
-            </details></div><div class="tab-pane" id="download-2"><h3 id="打包下载"><a href="#打包下载" class="headerlink" title="打包下载"></a>打包下载</h3><p><a class="button  regular" href='https://pan.baidu.com/s/1TGcGO-M9DDraNGOFlRr72Q' title='百度网盘(sm34)'><i class='fas fa-cloud-download-alt'></i> 百度网盘(sm34)</a><br><a class="button  regular" href='https://www.123pan.com/s/ylM8Vv-zHxad.html' title='123云盘(EFmy)'><i class='fas fa-cloud-download-alt'></i> 123云盘(EFmy)</a></p>
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>安装说明 </summary>
-              <div class='content'>
-              <p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2023/12/18/657f378a8b6d1.png"
-                      alt="安装说明"
-                ></p>
-              </div>
-            </details></div></div></div>
-
-<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>远程协助 </summary>
-              <div class='content'>
-              <p>安装遇到困难？我们提供专业的远程安装服务：<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
-              </div>
-            </details>
-
-
-]]></content>
       <categories>
         <category>游戏教程</category>
       </categories>
@@ -657,6 +607,56 @@
                      data-src="https://bu.dusays.com/2022/09/21/632a29f7f3d1a.png"
                       alt="联机原理图"
                 ></p>
+]]></content>
+      <categories>
+        <category>游戏教程</category>
+      </categories>
+      <tags>
+        <tag>模拟人生4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>模拟人生4 资料片下载</title>
+    <url>/posts/1415024682.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><ul>
+<li>最新版本：乐租生活【EP15】(2023.12.08)</li>
+<li>1.104组合包已包含在游戏内，升级后自动获得</li>
+</ul>
+
+  </div>
+
+<h2 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h2><div class="tabs" id="tab-download"><ul class="nav-tabs"><li class="tab active"><a class="#download-1">单独DLC下载</a></li><li class="tab"><a class="#download-2">打包下载</a></li></ul><div class="tab-content"><div class="tab-pane active" id="download-1"><h3 id="单独下载"><a href="#单独下载" class="headerlink" title="单独下载"></a>单独下载</h3><p>每个DLC对应一个4位编号(如GP**, SP**等)，按需下载：</p>
+<p><a class="button  regular" href='https://share.feijipan.com/s/IGUIdMkZ' title='小飞机网盘'><i class='fas fa-plane'></i> 小飞机网盘</a><br><a class="button  regular" href='https://pan.baidu.com/s/1odRsJPTI25SBsMgsOgoCpA' title='百度网盘(8w73)'><i class='fas fa-cloud-download-alt'></i> 百度网盘(8w73)</a></p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>下载教程 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2023/12/18/657f330af4089.gif"
+                      alt="下载教程"
+                ></p>
+              </div>
+            </details></div><div class="tab-pane" id="download-2"><h3 id="打包下载"><a href="#打包下载" class="headerlink" title="打包下载"></a>打包下载</h3><p><a class="button  regular" href='https://pan.baidu.com/s/1TGcGO-M9DDraNGOFlRr72Q' title='百度网盘(sm34)'><i class='fas fa-cloud-download-alt'></i> 百度网盘(sm34)</a><br><a class="button  regular" href='https://www.123pan.com/s/ylM8Vv-zHxad.html' title='123云盘(EFmy)'><i class='fas fa-cloud-download-alt'></i> 123云盘(EFmy)</a></p>
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>安装说明 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2023/12/18/657f378a8b6d1.png"
+                      alt="安装说明"
+                ></p>
+              </div>
+            </details></div></div></div>
+
+<details class="blue" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>远程协助 </summary>
+              <div class='content'>
+              <p>安装遇到困难？我们提供专业的远程安装服务：<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
+              </div>
+            </details>
+
+
 ]]></content>
       <categories>
         <category>游戏教程</category>
@@ -1742,142 +1742,52 @@
       </tags>
   </entry>
   <entry>
-    <title>Rustdesk - 开源远程控制软件</title>
-    <url>/posts/c2f01aef.html</url>
-    <content><![CDATA[
+    <title>彼女、お借りします</title>
+    <url>/posts/2559a5f0.html</url>
+    <content><![CDATA[<h1 id="彼女、お借りします-租借女友"><a href="#彼女、お借りします-租借女友" class="headerlink" title="彼女、お借りします,租借女友"></a>彼女、お借りします,租借女友</h1>
   <div class="note p-4 mb-4 rounded-small info">
-    <p>Rustdesk 是一款开源免费的远程控制软件，支持多平台，无需注册即可使用。</p>
+    <p>宫岛礼吏创作的青春恋爱喜剧漫画</p>
 
   </div>
 
-<h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2>
-  <div class="note p-4 mb-4 rounded-small success">
-    <ul>
-<li>完全开源免费</li>
-<li>跨平台支持</li>
-<li>无需注册账号</li>
-<li>简单易用</li>
-</ul>
+<h2 id="观看渠道"><a href="#观看渠道" class="headerlink" title="观看渠道"></a>观看渠道</h2><a class="button  regular center fab fa-bilibili" href='https://www.acfun.cn/bangumi/aa6002917' title='AcFun正版观看'>AcFun正版观看</a>
 
-  </div>
-
-<h2 id="平台支持"><a href="#平台支持" class="headerlink" title="平台支持"></a>平台支持</h2><div class="tabs" id="tab-platform"><ul class="nav-tabs"><li class="tab active"><a class="#platform-1">桌面端</a></li><li class="tab"><a class="#platform-2">移动端</a></li></ul><div class="tab-content"><div class="tab-pane active" id="platform-1"><ul>
-<li>Windows</li>
-<li>macOS</li>
-<li>Linux</li>
-</ul></div><div class="tab-pane" id="platform-2"><ul>
-<li>Android</li>
-<li>iOS</li>
-</ul></div></div></div>
-
-<h2 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h2><a class="button  regular center" href='https://rustdesk.com/zh/' title='官方下载'><i class='fas fa-download'></i> 官方下载</a>
-
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>使用界面预览 </summary>
-              <div class='content'>
-              <p><img  
+<p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/30/6387476152a98.png"
-                      alt="Rustdesk界面"
+                     data-src="https://bu.dusays.com/2022/10/14/634959560cffe.webp"
+                      alt="海报"
                 ></p>
-              </div>
-            </details>
-
-
-
-]]></content>
-      <categories>
-        <category>Windows</category>
-      </categories>
-      <tags>
-        <tag>软件推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Office 全家桶安装与激活教程</title>
-    <url>/posts/41fb598b.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small info">
-    <p>使用 Office Tool Plus 快速部署和激活 Microsoft Office 套件。</p>
-
-  </div>
-
-<h2 id="部署工具"><a href="#部署工具" class="headerlink" title="部署工具"></a>部署工具</h2><a class="button  regular center" href='https://otp.landian.vip/zh-cn/' title='Office Tool Plus'><i class='fas fa-download'></i> Office Tool Plus</a>
-
-<h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><div class="tabs" id="tab-office-install"><ul class="nav-tabs"><li class="tab active"><a class="#office-install-1">部署说明</a></li><li class="tab"><a class="#office-install-2">激活命令</a></li></ul><div class="tab-content"><div class="tab-pane active" id="office-install-1"><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>安装界面预览 </summary>
-              <div class='content'>
-              <p><img  
+<h2 id="一之濑千鹤"><a href="#一之濑千鹤" class="headerlink" title="一之濑千鹤"></a>一之濑千鹤</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/08/636a703e4959c.webp"
-                      alt="部署界面"
+                     data-src="https://bu.dusays.com/2022/10/14/6349573fbd58f.jpg"
+                      alt="一之濑千鹤"
                 ></p>
-              </div>
-            </details></div><div class="tab-pane" id="office-install-2"><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ospp /insLicID MondoVolume /sethst:kms.loli.beer /setprt:1688 /act</span><br></pre></td></tr></table></figure></div>
-
-<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>激活结果预览 </summary>
-              <div class='content'>
-              <p><img  
+<h2 id="更科瑠夏"><a href="#更科瑠夏" class="headerlink" title="更科瑠夏"></a>更科瑠夏</h2><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/11/08/636a703e45f2d.webp"
-                      alt="激活成功"
+                     data-src="https://bu.dusays.com/2022/10/14/63495954cec24.webp"
+                      alt="更科瑠夏"
                 ></p>
-              </div>
-            </details></div></div></div>
-
-
-
+<h2 id="樱泽墨"><a href="#樱泽墨" class="headerlink" title="樱泽墨"></a>樱泽墨</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/10/14/634957dac0bb0.jpg"
+                      alt="樱泽墨"
+                ></p>
+<h2 id="七海麻美"><a href="#七海麻美" class="headerlink" title="七海麻美"></a>七海麻美</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/10/14/634958026c43e.webp"
+                      alt="七海麻美"
+                ></p>
 ]]></content>
       <categories>
-        <category>Windows</category>
+        <category>小笔记</category>
       </categories>
       <tags>
-        <tag>软件推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Windows 系统下载与激活指南</title>
-    <url>/posts/96634f1c.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small info">
-    <p>本文提供 Windows 10&#x2F;11 系统的官方下载渠道和激活方法，推荐使用专业版。</p>
-
-  </div>
-
-<h2 id="系统下载"><a href="#系统下载" class="headerlink" title="系统下载"></a>系统下载</h2><div class="tabs" id="tab-windows-download"><ul class="nav-tabs"><li class="tab active"><a class="#windows-download-1">Windows 10</a></li><li class="tab"><a class="#windows-download-2">Windows 11</a></li></ul><div class="tab-content"><div class="tab-pane active" id="windows-download-1"><p><a class="button  regular center" href='https://www.microsoft.com/zh-cn/software-download/windows10' title='Windows 10 官方下载'><i class='fas fa-download'></i> Windows 10 官方下载</a></p>
-<h3 id="备用链接"><a href="#备用链接" class="headerlink" title="备用链接"></a>备用链接</h3><ul>
-<li>ed2k:&#x2F;&#x2F;|file|cn_windows_10_business_editions_version_22h2_updated_nov_2023_x64_dvd_6e799a64.iso|6150955008|F4A0A2E87625D991B8361F734B9F56F4|&#x2F;</li>
-<li>magnet:?xt&#x3D;urn:btih:5e9f936a23d11df11f26d48c4711f7343f79e22e</li>
-</ul></div><div class="tab-pane" id="windows-download-2"><p><a class="button  regular center" href='https://www.microsoft.com/zh-cn/software-download/windows11' title='Windows 11 官方下载'><i class='fas fa-download'></i> Windows 11 官方下载</a></p>
-<h3 id="备用链接"><a href="#备用链接" class="headerlink" title="备用链接"></a>备用链接</h3><ul>
-<li>ed2k:&#x2F;&#x2F;|file|cn_windows_11_business_editions_version_23h2_updated_nov_2023_x64_dvd_f816fca6.iso|6219321344|E2A0AC211A367E4F9E3721D0EAFC4A7F|&#x2F;</li>
-<li>magnet:?xt&#x3D;urn:btih:5d725d9c4f17b9e3b0b25728f0d0b78f1c4b7f12</li>
-</ul></div></div></div>
-
-<h2 id="激活方法"><a href="#激活方法" class="headerlink" title="激活方法"></a>激活方法</h2><div class="tabs" id="tab-activation"><ul class="nav-tabs"><li class="tab active"><a class="#activation-1">在线激活</a></li><li class="tab"><a class="#activation-2">离线激活</a></li></ul><div class="tab-content"><div class="tab-pane active" id="activation-1"><p><a class="button  regular center" href='https://kms.cangshui.net/#bat' title='KMS 激活服务器'><i class='fas fa-key'></i> KMS 激活服务器</a></p></div><div class="tab-pane" id="activation-2"><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>激活工具下载 </summary>
-              <div class='content'>
-              <p><a class="button  regular center" href='https://www.123pan.com/s/ylM8Vv-w51ad' title='激活工具(qqg6)'><i class='fas fa-key'></i> 激活工具(qqg6)</a></p><p>注: 工具经过安全检测,请放心使用</p>
-              </div>
-            </details></div></div></div>
-
-
-  <div class="note p-4 mb-4 rounded-small warning">
-    <h3 id="下载说明"><a href="#下载说明" class="headerlink" title="下载说明"></a>下载说明</h3><ol>
-<li>优先使用官方渠道下载</li>
-<li>如果官网下载速度慢，可以使用备用链接</li>
-<li>ed2k链接需要使用迅雷等下载工具</li>
-<li>磁力链接建议使用正规BT客户端下载</li>
-</ol>
-
-  </div>
-
-]]></content>
-      <categories>
-        <category>Windows</category>
-      </categories>
-      <tags>
-        <tag>软件推荐</tag>
+        <tag>娱乐</tag>
       </tags>
   </entry>
   <entry>
@@ -2268,74 +2178,6 @@
       </tags>
   </entry>
   <entry>
-    <title>彼女、お借りします</title>
-    <url>/posts/2559a5f0.html</url>
-    <content><![CDATA[<h1 id="彼女、お借りします-租借女友"><a href="#彼女、お借りします-租借女友" class="headerlink" title="彼女、お借りします,租借女友"></a>彼女、お借りします,租借女友</h1>
-  <div class="note p-4 mb-4 rounded-small info">
-    <p>宫岛礼吏创作的青春恋爱喜剧漫画</p>
-
-  </div>
-
-<h2 id="观看渠道"><a href="#观看渠道" class="headerlink" title="观看渠道"></a>观看渠道</h2><a class="button  regular center fab fa-bilibili" href='https://www.acfun.cn/bangumi/aa6002917' title='AcFun正版观看'>AcFun正版观看</a>
-
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/10/14/634959560cffe.webp"
-                      alt="海报"
-                ></p>
-<h2 id="一之濑千鹤"><a href="#一之濑千鹤" class="headerlink" title="一之濑千鹤"></a>一之濑千鹤</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/10/14/6349573fbd58f.jpg"
-                      alt="一之濑千鹤"
-                ></p>
-<h2 id="更科瑠夏"><a href="#更科瑠夏" class="headerlink" title="更科瑠夏"></a>更科瑠夏</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/10/14/63495954cec24.webp"
-                      alt="更科瑠夏"
-                ></p>
-<h2 id="樱泽墨"><a href="#樱泽墨" class="headerlink" title="樱泽墨"></a>樱泽墨</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/10/14/634957dac0bb0.jpg"
-                      alt="樱泽墨"
-                ></p>
-<h2 id="七海麻美"><a href="#七海麻美" class="headerlink" title="七海麻美"></a>七海麻美</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2022/10/14/634958026c43e.webp"
-                      alt="七海麻美"
-                ></p>
-]]></content>
-      <categories>
-        <category>小笔记</category>
-      </categories>
-      <tags>
-        <tag>娱乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>远程帮助</title>
-    <url>/posts/2239963484.html</url>
-    <content><![CDATA[<h2 id="Todesk安装"><a href="#Todesk安装" class="headerlink" title="Todesk安装"></a>Todesk安装</h2><p>先安装Todesk，进入之后注册登陆</p>
-<a class="button  regular center fas fa-download" href='https://www.todesk.com/download.html' title='Todesk下载'>Todesk下载</a>
-<h2 id="发送远程截图"><a href="#发送远程截图" class="headerlink" title="发送远程截图"></a>发送远程截图</h2><p>微信：Jsk771235 远程需要收费<br>发送照片或者截图。<br>照片包括：设备代码+临时密码<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://bu.dusays.com/2023/07/29/64c52a2b6f542.png"
-                      alt="远程连接示例"
-                ></p>
-]]></content>
-      <categories>
-        <category>小笔记</category>
-      </categories>
-      <tags>
-        <tag>娱乐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>模拟人生4 CAS特征合集</title>
     <url>/posts/3871669916.html</url>
     <content><![CDATA[
@@ -2375,6 +2217,25 @@
       </tags>
   </entry>
   <entry>
+    <title>远程帮助</title>
+    <url>/posts/2239963484.html</url>
+    <content><![CDATA[<h2 id="Todesk安装"><a href="#Todesk安装" class="headerlink" title="Todesk安装"></a>Todesk安装</h2><p>先安装Todesk，进入之后注册登陆</p>
+<a class="button  regular center fas fa-download" href='https://www.todesk.com/download.html' title='Todesk下载'>Todesk下载</a>
+<h2 id="发送远程截图"><a href="#发送远程截图" class="headerlink" title="发送远程截图"></a>发送远程截图</h2><p>微信：Jsk771235 远程需要收费<br>发送照片或者截图。<br>照片包括：设备代码+临时密码<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2023/07/29/64c52a2b6f542.png"
+                      alt="远程连接示例"
+                ></p>
+]]></content>
+      <categories>
+        <category>小笔记</category>
+      </categories>
+      <tags>
+        <tag>娱乐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>模拟人生4 MC Command Center</title>
     <url>/posts/1382213214.html</url>
     <content><![CDATA[
@@ -2406,6 +2267,59 @@
   </div>
 
 <a class="button  regular center" href='https://deaderpool-mccc.com/installation.html' title='官方教程'><i class='fas fa-book'></i> 官方教程</a>
+<a class="button  regular center" href='https://jisuk.top/posts/eeeda2be.html' title='基础教程'><i class='fas fa-book'></i> 基础教程</a>
+
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>安装完成后,请在游戏中启用:允许脚本和模组</p>
+
+  </div>
+
+<h2 id="远程协助"><a href="#远程协助" class="headerlink" title="远程协助"></a>远程协助</h2><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>遇到问题? </summary>
+              <div class='content'>
+              <p>如果安装遇到困难,我们提供专业的远程安装服务:<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
+              </div>
+            </details>
+]]></content>
+      <categories>
+        <category>游戏教程</category>
+      </categories>
+      <tags>
+        <tag>模拟人生4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>模拟人生4 MOD冲突检测</title>
+    <url>/posts/1382213294.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <p>由TwistedMexi开发的MOD冲突检测工具,每个玩家必备。</p>
+
+  </div>
+
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="tabs" id="tab-conflict_download"><ul class="nav-tabs"><li class="tab active"><a class="#conflict_download-1">官方下载</a></li></ul><div class="tab-content"><div class="tab-pane active" id="conflict_download-1"><p><a class="button  regular center" href='https://www.patreon.com/posts/99403318' title='官方下载'><i class='fas fa-download'></i> 官方下载</a></p></div></div></div>
+
+<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2>
+  <div class="note p-4 mb-4 rounded-small primary">
+    <h3 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h3><ol>
+<li>进入游戏后,点击”yes,please!”</li>
+<li>等待扫描完成(取决于MOD数量)</li>
+<li>结果将在浏览器中打开</li>
+<li>建议使用非Edge浏览器查看</li>
+</ol>
+<h3 id="触发说明"><a href="#触发说明" class="headerlink" title="触发说明"></a>触发说明</h3><p>每次会话首次加载家庭时会出现欢迎通知,从中打开BE菜单即可。</p>
+
+  </div>
+
+<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2>
+  <div class="note p-4 mb-4 rounded-small info">
+    <ol>
+<li>在MOD文件夹内新建”MOD冲突检测”文件夹</li>
+<li>将MOD压缩包内所有内容拖入该文件夹</li>
+</ol>
+
+  </div>
+
 <a class="button  regular center" href='https://jisuk.top/posts/eeeda2be.html' title='基础教程'><i class='fas fa-book'></i> 基础教程</a>
 
 
@@ -2544,59 +2458,6 @@
               <p>如果安装遇到困难,我们提供专业的远程安装服务:<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
               </div>
             </details>]]></content>
-      <categories>
-        <category>游戏教程</category>
-      </categories>
-      <tags>
-        <tag>模拟人生4</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>模拟人生4 MOD冲突检测</title>
-    <url>/posts/1382213294.html</url>
-    <content><![CDATA[
-  <div class="note p-4 mb-4 rounded-small info">
-    <p>由TwistedMexi开发的MOD冲突检测工具,每个玩家必备。</p>
-
-  </div>
-
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="tabs" id="tab-conflict_download"><ul class="nav-tabs"><li class="tab active"><a class="#conflict_download-1">官方下载</a></li></ul><div class="tab-content"><div class="tab-pane active" id="conflict_download-1"><p><a class="button  regular center" href='https://www.patreon.com/posts/99403318' title='官方下载'><i class='fas fa-download'></i> 官方下载</a></p></div></div></div>
-
-<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2>
-  <div class="note p-4 mb-4 rounded-small primary">
-    <h3 id="使用步骤"><a href="#使用步骤" class="headerlink" title="使用步骤"></a>使用步骤</h3><ol>
-<li>进入游戏后,点击”yes,please!”</li>
-<li>等待扫描完成(取决于MOD数量)</li>
-<li>结果将在浏览器中打开</li>
-<li>建议使用非Edge浏览器查看</li>
-</ol>
-<h3 id="触发说明"><a href="#触发说明" class="headerlink" title="触发说明"></a>触发说明</h3><p>每次会话首次加载家庭时会出现欢迎通知,从中打开BE菜单即可。</p>
-
-  </div>
-
-<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2>
-  <div class="note p-4 mb-4 rounded-small info">
-    <ol>
-<li>在MOD文件夹内新建”MOD冲突检测”文件夹</li>
-<li>将MOD压缩包内所有内容拖入该文件夹</li>
-</ol>
-
-  </div>
-
-<a class="button  regular center" href='https://jisuk.top/posts/eeeda2be.html' title='基础教程'><i class='fas fa-book'></i> 基础教程</a>
-
-
-  <div class="note p-4 mb-4 rounded-small warning">
-    <p>安装完成后,请在游戏中启用:允许脚本和模组</p>
-
-  </div>
-
-<h2 id="远程协助"><a href="#远程协助" class="headerlink" title="远程协助"></a>远程协助</h2><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>遇到问题? </summary>
-              <div class='content'>
-              <p>如果安装遇到困难,我们提供专业的远程安装服务:<br><a class="button  regular" href='https://jisuk.top/posts/2239963484.html' title='预约远程'><i class='fas fa-headset'></i> 预约远程</a></p>
-              </div>
-            </details>
-]]></content>
       <categories>
         <category>游戏教程</category>
       </categories>
@@ -2876,6 +2737,145 @@
       </categories>
       <tags>
         <tag>模拟人生4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Rustdesk - 开源远程控制软件</title>
+    <url>/posts/c2f01aef.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <p>Rustdesk 是一款开源免费的远程控制软件，支持多平台，无需注册即可使用。</p>
+
+  </div>
+
+<h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2>
+  <div class="note p-4 mb-4 rounded-small success">
+    <ul>
+<li>完全开源免费</li>
+<li>跨平台支持</li>
+<li>无需注册账号</li>
+<li>简单易用</li>
+</ul>
+
+  </div>
+
+<h2 id="平台支持"><a href="#平台支持" class="headerlink" title="平台支持"></a>平台支持</h2><div class="tabs" id="tab-platform"><ul class="nav-tabs"><li class="tab active"><a class="#platform-1">桌面端</a></li><li class="tab"><a class="#platform-2">移动端</a></li></ul><div class="tab-content"><div class="tab-pane active" id="platform-1"><ul>
+<li>Windows</li>
+<li>macOS</li>
+<li>Linux</li>
+</ul></div><div class="tab-pane" id="platform-2"><ul>
+<li>Android</li>
+<li>iOS</li>
+</ul></div></div></div>
+
+<h2 id="下载安装"><a href="#下载安装" class="headerlink" title="下载安装"></a>下载安装</h2><a class="button  regular center" href='https://rustdesk.com/zh/' title='官方下载'><i class='fas fa-download'></i> 官方下载</a>
+
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>使用界面预览 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/11/30/6387476152a98.png"
+                      alt="Rustdesk界面"
+                ></p>
+              </div>
+            </details>
+
+
+
+]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>软件推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Office 全家桶安装与激活教程</title>
+    <url>/posts/41fb598b.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <p>使用 Office Tool Plus 快速部署和激活 Microsoft Office 套件。</p>
+
+  </div>
+
+<h2 id="部署工具"><a href="#部署工具" class="headerlink" title="部署工具"></a>部署工具</h2><a class="button  regular center" href='https://otp.landian.vip/zh-cn/' title='Office Tool Plus'><i class='fas fa-download'></i> Office Tool Plus</a>
+
+<h2 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h2><div class="tabs" id="tab-office-install"><ul class="nav-tabs"><li class="tab active"><a class="#office-install-1">部署说明</a></li><li class="tab"><a class="#office-install-2">激活命令</a></li></ul><div class="tab-content"><div class="tab-pane active" id="office-install-1"><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>安装界面预览 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/11/08/636a703e4959c.webp"
+                      alt="部署界面"
+                ></p>
+              </div>
+            </details></div><div class="tab-pane" id="office-install-2"><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ospp /insLicID MondoVolume /sethst:kms.loli.beer /setprt:1688 /act</span><br></pre></td></tr></table></figure></div>
+
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>激活结果预览 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/11/08/636a703e45f2d.webp"
+                      alt="激活成功"
+                ></p>
+              </div>
+            </details></div></div></div>
+
+
+
+]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>软件推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows 系统下载与激活指南</title>
+    <url>/posts/96634f1c.html</url>
+    <content><![CDATA[
+  <div class="note p-4 mb-4 rounded-small info">
+    <p>本文提供 Windows 10&#x2F;11 系统的官方下载渠道和激活方法，推荐使用专业版。</p>
+
+  </div>
+
+<h2 id="系统下载"><a href="#系统下载" class="headerlink" title="系统下载"></a>系统下载</h2><div class="tabs" id="tab-windows-download"><ul class="nav-tabs"><li class="tab active"><a class="#windows-download-1">Windows 10</a></li><li class="tab"><a class="#windows-download-2">Windows 11</a></li></ul><div class="tab-content"><div class="tab-pane active" id="windows-download-1"><p><a class="button  regular center" href='https://www.microsoft.com/zh-cn/software-download/windows10' title='Windows 10 官方下载'><i class='fas fa-download'></i> Windows 10 官方下载</a></p>
+<h3 id="备用链接"><a href="#备用链接" class="headerlink" title="备用链接"></a>备用链接</h3><ul>
+<li>ed2k:&#x2F;&#x2F;|file|cn_windows_10_business_editions_version_22h2_updated_nov_2023_x64_dvd_6e799a64.iso|6150955008|F4A0A2E87625D991B8361F734B9F56F4|&#x2F;</li>
+<li>magnet:?xt&#x3D;urn:btih:5e9f936a23d11df11f26d48c4711f7343f79e22e</li>
+</ul></div><div class="tab-pane" id="windows-download-2"><p><a class="button  regular center" href='https://www.microsoft.com/zh-cn/software-download/windows11' title='Windows 11 官方下载'><i class='fas fa-download'></i> Windows 11 官方下载</a></p>
+<h3 id="备用链接"><a href="#备用链接" class="headerlink" title="备用链接"></a>备用链接</h3><ul>
+<li>ed2k:&#x2F;&#x2F;|file|cn_windows_11_business_editions_version_23h2_updated_nov_2023_x64_dvd_f816fca6.iso|6219321344|E2A0AC211A367E4F9E3721D0EAFC4A7F|&#x2F;</li>
+<li>magnet:?xt&#x3D;urn:btih:5d725d9c4f17b9e3b0b25728f0d0b78f1c4b7f12</li>
+</ul></div></div></div>
+
+<h2 id="激活方法"><a href="#激活方法" class="headerlink" title="激活方法"></a>激活方法</h2><div class="tabs" id="tab-activation"><ul class="nav-tabs"><li class="tab active"><a class="#activation-1">在线激活</a></li><li class="tab"><a class="#activation-2">离线激活</a></li></ul><div class="tab-content"><div class="tab-pane active" id="activation-1"><p><a class="button  regular center" href='https://kms.cangshui.net/#bat' title='KMS 激活服务器'><i class='fas fa-key'></i> KMS 激活服务器</a></p></div><div class="tab-pane" id="activation-2"><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>激活工具下载 </summary>
+              <div class='content'>
+              <p><a class="button  regular center" href='https://www.123pan.com/s/ylM8Vv-w51ad' title='激活工具(qqg6)'><i class='fas fa-key'></i> 激活工具(qqg6)</a></p><p>注: 工具经过安全检测,请放心使用</p>
+              </div>
+            </details></div></div></div>
+
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <h3 id="下载说明"><a href="#下载说明" class="headerlink" title="下载说明"></a>下载说明</h3><ol>
+<li>优先使用官方渠道下载</li>
+<li>如果官网下载速度慢，可以使用备用链接</li>
+<li>ed2k链接需要使用迅雷等下载工具</li>
+<li>磁力链接建议使用正规BT客户端下载</li>
+</ol>
+
+  </div>
+
+]]></content>
+      <categories>
+        <category>Windows</category>
+      </categories>
+      <tags>
+        <tag>软件推荐</tag>
       </tags>
   </entry>
 </search>
