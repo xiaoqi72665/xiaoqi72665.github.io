@@ -784,12 +784,42 @@ cd
                         
                             
                             
-  
-    本文介绍 Linux 系统中的 NFS 服务配置及文件存储管理的相关内容。
+Linux,Redhat 安装命令
 
-  
 
-NFS 服务配置安装配置配置说明基础安装12345dnf -y install rpcbind nfs-utilssystemctl start rpcbindsystemctl start nfs-serversystemctl enable rpcbindsystemctl enable...
+功能
+Debian
+Redhat
+Redhat  (dnf)
+
+
+
+安装软件包
+dpkg -i
+rpm -ivh
+dnf install
+
+
+移除软件（保留配置）
+dpkg -r
+rpm -evh
+
+
+
+移除软件（不保留配置）
+dpkg -P
+
+
+
+
+列出安装包的内容
+dpkg -c
+rpm -qlp
+
+
+
+配合&#124;grep，查找主机包
+dp...
                         
                     </div>
 
@@ -866,42 +896,12 @@ NFS 服务配置安装配置配置说明基础安装12345dnf -y install rpcbind 
                         
                             
                             
-Linux,Redhat 安装命令
+  
+    本文介绍 Linux 系统中的 NFS 服务配置及文件存储管理的相关内容。
 
+  
 
-功能
-Debian
-Redhat
-Redhat  (dnf)
-
-
-
-安装软件包
-dpkg -i
-rpm -ivh
-dnf install
-
-
-移除软件（保留配置）
-dpkg -r
-rpm -evh
-
-
-
-移除软件（不保留配置）
-dpkg -P
-
-
-
-
-列出安装包的内容
-dpkg -c
-rpm -qlp
-
-
-
-配合&#124;grep，查找主机包
-dp...
+NFS 服务配置安装配置配置说明基础安装12345dnf -y install rpcbind nfs-utilssystemctl start rpcbindsystemctl start nfs-serversystemctl enable rpcbindsystemctl enable...
                         
                     </div>
 

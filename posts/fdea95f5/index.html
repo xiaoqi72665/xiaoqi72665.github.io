@@ -433,12 +433,12 @@
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>538 字</span>
+            <i class="fa-regular fa-typewriter"></i>&nbsp;<span>184 字</span>
         </span>
     
     
         <span class="article-min2read article-meta-item">
-            <i class="fa-regular fa-clock"></i>&nbsp;<span>2 分钟</span>
+            <i class="fa-regular fa-clock"></i>&nbsp;<span>1 分钟</span>
         </span>
     
     
@@ -457,240 +457,54 @@
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			<hr>
-<h1 id="Linux-Redhat-安装命令"><a href="#Linux-Redhat-安装命令" class="headerlink" title="Linux,Redhat 安装命令"></a>Linux,Redhat 安装命令</h1><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>Debian</th>
-<th>Redhat</th>
-<th>Redhat  (dnf)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>安装软件包</td>
-<td>dpkg -i</td>
-<td>rpm -ivh</td>
-<td>dnf install</td>
-</tr>
-<tr>
-<td>移除软件（保留配置）</td>
-<td>dpkg -r</td>
-<td>rpm -evh</td>
-<td></td>
-</tr>
-<tr>
-<td>移除软件（不保留配置）</td>
-<td>dpkg -P</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>列出安装包的内容</td>
-<td>dpkg -c</td>
-<td>rpm -qlp</td>
-<td></td>
-</tr>
-<tr>
-<td>配合&#124;grep，查找主机包</td>
-<td>dpkg -l&#124;grep</td>
-<td>rpm -qa&#124;grep</td>
-<td></td>
-</tr>
-<tr>
-<td>查找包的详细信息</td>
-<td>dpkg -s</td>
-<td></td>
-<td>dnf info nano</td>
-</tr>
-<tr>
-<td>查看已安装的软件包文件分布</td>
-<td>dpkg -L</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>显示安装包的状态信息</td>
-<td>dpkg -S</td>
-<td>rpm -ql</td>
-<td></td>
-</tr>
-<tr>
-<td>列出软件的所有设置文件</td>
-<td></td>
-<td>rpm -qc</td>
-<td></td>
-</tr>
-<tr>
-<td>查询安装包依赖软件</td>
-<td></td>
-<td>rpm -qR</td>
-<td></td>
-</tr>
-<tr>
-<td>查询文件出生（文件名）</td>
-<td></td>
-<td>rpm -qf</td>
-<td>dnf provides</td>
-</tr>
-<tr>
-<td>安装软件包</td>
-<td>apt-get install</td>
-<td>yum -y install</td>
-<td></td>
-</tr>
-<tr>
-<td>卸载软件（不包含配置）</td>
-<td>apt-get remove</td>
-<td>yum remove</td>
-<td>dnf remove</td>
-</tr>
-<tr>
-<td>卸载指令（包含配置）</td>
-<td>apt-get purge</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>将所有包的来源更新（更新源）</td>
-<td>apt-get update</td>
-<td>yum makecache</td>
-<td>dnf update</td>
-</tr>
-<tr>
-<td>将系统中旧版本的包更新至最新</td>
-<td>apt-get upgrade</td>
-<td>yum update</td>
-<td></td>
-</tr>
-<tr>
-<td>用关键词搜索包</td>
-<td>apt-cache search</td>
-<td>yum search</td>
-<td></td>
-</tr>
-<tr>
-<td>显示特定包的基本信息</td>
-<td>apt-cache show</td>
-<td>yum info</td>
-<td></td>
-</tr>
-<tr>
-<td>列出包的依赖</td>
-<td>apt-cache depends</td>
-<td>yum deplist rpm</td>
-<td></td>
-</tr>
-<tr>
-<td>清理本地包占用</td>
-<td>apt-get clean</td>
-<td>yum clean all</td>
-<td>dnf clean all</td>
-</tr>
-<tr>
-<td>卸载软件附带依赖且不要的包</td>
-<td>apt-get autoremove</td>
-<td></td>
-<td>dnf autoremove</td>
-</tr>
-<tr>
-<td>显示所有已经安装和可以安装的程序包</td>
-<td></td>
-<td>yum list</td>
-<td>grep</td>
-</tr>
-<tr>
-<td>列出组</td>
-<td></td>
-<td>yum group list</td>
-<td></td>
-</tr>
-<tr>
-<td>安装‘Security Tools’软件组</td>
-<td></td>
-<td>yum group install “Security Tools”</td>
-<td></td>
-</tr>
-<tr>
-<td>显示系统中可用的 DNF 软件库</td>
-<td></td>
-<td></td>
-<td>dnf repolist</td>
-</tr>
-<tr>
-<td>显示系统中可用和不可用的所有的 DNF 软件库</td>
-<td></td>
-<td></td>
-<td>dnf repolist all</td>
-</tr>
-<tr>
-<td>列出所有来自软件库的可用软件包和所有已经安装在系统上的软件包</td>
-<td></td>
-<td></td>
-<td>dnf list</td>
-</tr>
-<tr>
-<td>列出所有安装了的 RPM 包</td>
-<td></td>
-<td></td>
-<td>dnf list installed</td>
-</tr>
-<tr>
-<td>列出所有可用软件库的可供安装的软件包</td>
-<td></td>
-<td></td>
-<td>dnf list available</td>
-</tr>
-<tr>
-<td>查找某一文件的提供者</td>
-<td></td>
-<td></td>
-<td>dnf provides</td>
-</tr>
-<tr>
-<td>升级指定软件包</td>
-<td></td>
-<td></td>
-<td>dnf update systemd</td>
-</tr>
-<tr>
-<td>检查系统中所有软件包的更新</td>
-<td></td>
-<td></td>
-<td>dnf check-update</td>
-</tr>
-<tr>
-<td>查看系统上dnf命令的执行历史</td>
-<td></td>
-<td></td>
-<td>dnf history</td>
-</tr>
-<tr>
-<td>列出所有的软件包组</td>
-<td></td>
-<td></td>
-<td>dnf grouplist</td>
-</tr>
-<tr>
-<td>安装一个软件包组</td>
-<td></td>
-<td></td>
-<td>dnf groupupdate</td>
-</tr>
-<tr>
-<td>卸载一个软件包组</td>
-<td></td>
-<td></td>
-<td>dnf groupremove</td>
-</tr>
-<tr>
-<td>重新安装特定软件包</td>
-<td></td>
-<td></td>
-<td>dnf reinstall</td>
-</tr>
-</tbody></table>
+			
+  <div class="note p-4 mb-4 rounded-small info">
+    <p>本文介绍 Linux 系统中的 NFS 服务配置及文件存储管理的相关内容。</p>
 
+  </div>
+
+<h2 id="NFS-服务配置"><a href="#NFS-服务配置" class="headerlink" title="NFS 服务配置"></a>NFS 服务配置</h2><div class="tabs" id="tab-nfs"><ul class="nav-tabs"><li class="tab active"><a class="#nfs-1">安装配置</a></li><li class="tab"><a class="#nfs-2">配置说明</a></li></ul><div class="tab-content"><div class="tab-pane active" id="nfs-1"><h3 id="基础安装"><a href="#基础安装" class="headerlink" title="基础安装"></a>基础安装</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">dnf -y install rpcbind nfs-utils</span><br><span class="line">systemctl start rpcbind</span><br><span class="line">systemctl start nfs-server</span><br><span class="line">systemctl <span class="built_in">enable</span> rpcbind</span><br><span class="line">systemctl <span class="built_in">enable</span> nfs-server</span><br></pre></td></tr></table></figure></div></div><div class="tab-pane" id="nfs-2"><h3 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h3><p>编辑 <code>/etc/exports</code>:</p>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">/share1 *(<span class="built_in">sync</span>,ro) 192.168.x.x(<span class="built_in">sync</span>,rw,no_root_squash)</span><br><span class="line">/share2 192.168.x.0/24(<span class="built_in">sync</span>,ro)</span><br></pre></td></tr></table></figure></div>
+
+<h3 id="权限说明"><a href="#权限说明" class="headerlink" title="权限说明"></a>权限说明</h3>  <div class="note p-4 mb-4 rounded-small primary">
+    <ul>
+<li>rw&#x2F;ro: 读写&#x2F;只读权限</li>
+<li>sync&#x2F;async: 同步&#x2F;异步写入</li>
+<li>root_squash: root用户权限压制</li>
+<li>no_root_squash: 保留root权限</li>
+</ul>
+
+  </div></div></div></div>
+
+<h2 id="备份策略"><a href="#备份策略" class="headerlink" title="备份策略"></a>备份策略</h2>
+  <div class="note p-4 mb-4 rounded-small warning">
+    <h3 id="备份要点"><a href="#备份要点" class="headerlink" title="备份要点"></a>备份要点</h3><ol>
+<li>创建备份目录</li>
+<li>配置NFS共享</li>
+<li>设置自动挂载</li>
+<li>配置定时任务</li>
+</ol>
+
+  </div>
+
+<h2 id="下载工具"><a href="#下载工具" class="headerlink" title="下载工具"></a>下载工具</h2><a class="button  https://pkgs.org/download/nfs-utils" href='fas fa-download' title='NFS工具包'><i class='blue light'></i> NFS工具包</a>
+
+<details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>备份脚本示例 </summary>
+              <div class='content'>
+              <p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/09/21/632b19811d858.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://bu.dusays.com/2022/09/21/632b19a372205.png"
+                     
+                ></p><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#!/bin/bash</span></span><br><span class="line"><span class="built_in">date</span>=<span class="string">&quot;<span class="subst">$(date +%F)</span>&quot;</span></span><br><span class="line"><span class="built_in">cp</span> /etc/passwd /mnt/pass_<span class="variable">$date</span></span><br></pre></td></tr></table></figure></div>
+              </div>
+            </details> 
+<h2 id="abbrlink-‘0’"><a href="#abbrlink-‘0’" class="headerlink" title="abbrlink: ‘0’"></a>abbrlink: ‘0’</h2>
 		</div>
 
 		
@@ -779,7 +593,7 @@
 	<div class="post-toc">
 		<div class="toc-title">目录</div>
 		<div class="page-title">Linux 存储与 NFS 服务配置</div>
-		<ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Linux-Redhat-%E5%AE%89%E8%A3%85%E5%91%BD%E4%BB%A4"><span class="nav-text">Linux,Redhat 安装命令</span></a></li></ol>
+		<ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#NFS-%E6%9C%8D%E5%8A%A1%E9%85%8D%E7%BD%AE"><span class="nav-text">NFS 服务配置</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9F%BA%E7%A1%80%E5%AE%89%E8%A3%85"><span class="nav-text">基础安装</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6"><span class="nav-text">配置文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%9D%83%E9%99%90%E8%AF%B4%E6%98%8E"><span class="nav-text">权限说明</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A4%87%E4%BB%BD%E7%AD%96%E7%95%A5"><span class="nav-text">备份策略</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%A4%87%E4%BB%BD%E8%A6%81%E7%82%B9"><span class="nav-text">备份要点</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7"><span class="nav-text">下载工具</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#abbrlink-%E2%80%980%E2%80%99"><span class="nav-text">abbrlink: ‘0’</span></a></li></ol>
 
 	</div>
 </div>
